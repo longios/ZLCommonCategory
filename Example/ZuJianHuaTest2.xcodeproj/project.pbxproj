@@ -30,9 +30,9 @@
 		79A9321923F92665008D8E40 /* NSMutableArray+ZLJSwiftExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9320F23F92664008D8E40 /* NSMutableArray+ZLJSwiftExtension.m */; };
 		79A9321A23F92665008D8E40 /* NSString+HVExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9321223F92664008D8E40 /* NSString+HVExtension.m */; };
 		79A9321B23F92665008D8E40 /* UIButton+ZLJExpandTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9321323F92664008D8E40 /* UIButton+ZLJExpandTouch.m */; };
-		79A9322123F926DA008D8E40 /* UILabel+ZLJFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9322023F926DA008D8E40 /* UILabel+ZLJFactory.m */; };
-		79A9322423F92834008D8E40 /* UIButton+ZLJFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9322323F92834008D8E40 /* UIButton+ZLJFactory.m */; };
-		79A9322723F92841008D8E40 /* UITextField+ZLJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9322623F92841008D8E40 /* UITextField+ZLJ.m */; };
+		79A9323A23FA6019008D8E40 /* UITextField+ZLJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9323523FA6019008D8E40 /* UITextField+ZLJ.m */; };
+		79A9323B23FA6019008D8E40 /* UILabel+ZLJFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9323623FA6019008D8E40 /* UILabel+ZLJFactory.m */; };
+		79A9323C23FA6019008D8E40 /* UIButton+ZLJFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A9323723FA6019008D8E40 /* UIButton+ZLJFactory.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		DC6B43C8192E55FCFA9883EA /* Pods_ZuJianHuaTest2_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A6EEEF79A89AAEA533600B7 /* Pods_ZuJianHuaTest2_Tests.framework */; };
 /* End PBXBuildFile section */
@@ -88,12 +88,12 @@
 		79A9321123F92664008D8E40 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
 		79A9321223F92664008D8E40 /* NSString+HVExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HVExtension.m"; sourceTree = "<group>"; };
 		79A9321323F92664008D8E40 /* UIButton+ZLJExpandTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+ZLJExpandTouch.m"; sourceTree = "<group>"; };
-		79A9321F23F926DA008D8E40 /* UILabel+ZLJFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+ZLJFactory.h"; sourceTree = "<group>"; };
-		79A9322023F926DA008D8E40 /* UILabel+ZLJFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+ZLJFactory.m"; sourceTree = "<group>"; };
-		79A9322223F92834008D8E40 /* UIButton+ZLJFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+ZLJFactory.h"; sourceTree = "<group>"; };
-		79A9322323F92834008D8E40 /* UIButton+ZLJFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+ZLJFactory.m"; sourceTree = "<group>"; };
-		79A9322523F92841008D8E40 /* UITextField+ZLJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITextField+ZLJ.h"; sourceTree = "<group>"; };
-		79A9322623F92841008D8E40 /* UITextField+ZLJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITextField+ZLJ.m"; sourceTree = "<group>"; };
+		79A9323423FA6019008D8E40 /* UIButton+ZLJFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+ZLJFactory.h"; sourceTree = "<group>"; };
+		79A9323523FA6019008D8E40 /* UITextField+ZLJ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+ZLJ.m"; sourceTree = "<group>"; };
+		79A9323623FA6019008D8E40 /* UILabel+ZLJFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+ZLJFactory.m"; sourceTree = "<group>"; };
+		79A9323723FA6019008D8E40 /* UIButton+ZLJFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+ZLJFactory.m"; sourceTree = "<group>"; };
+		79A9323823FA6019008D8E40 /* UILabel+ZLJFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+ZLJFactory.h"; sourceTree = "<group>"; };
+		79A9323923FA6019008D8E40 /* UITextField+ZLJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+ZLJ.h"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9965B3EEC3ABA31A4EDF5066 /* ZuJianHuaTest2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZuJianHuaTest2.podspec; path = ../ZuJianHuaTest2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C2734D074C17517D5A1B7EAC /* Pods-ZuJianHuaTest2_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZuJianHuaTest2_Example.debug.xcconfig"; path = "Target Support Files/Pods-ZuJianHuaTest2_Example/Pods-ZuJianHuaTest2_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -221,7 +221,7 @@
 		79A9320423F92664008D8E40 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				79A9322823F928E0008D8E40 /* Factory */,
+				79A9323323FA6019008D8E40 /* Factory */,
 				79A9320923F92664008D8E40 /* .gitkeep */,
 				79A9321023F92664008D8E40 /* ZLJBaseCategory.h */,
 				79A9320A23F92664008D8E40 /* ZLJBaseCategory.m */,
@@ -242,15 +242,15 @@
 			path = ../../ZuJianHuaTest2/Classes;
 			sourceTree = "<group>";
 		};
-		79A9322823F928E0008D8E40 /* Factory */ = {
+		79A9323323FA6019008D8E40 /* Factory */ = {
 			isa = PBXGroup;
 			children = (
-				79A9321F23F926DA008D8E40 /* UILabel+ZLJFactory.h */,
-				79A9322023F926DA008D8E40 /* UILabel+ZLJFactory.m */,
-				79A9322223F92834008D8E40 /* UIButton+ZLJFactory.h */,
-				79A9322323F92834008D8E40 /* UIButton+ZLJFactory.m */,
-				79A9322523F92841008D8E40 /* UITextField+ZLJ.h */,
-				79A9322623F92841008D8E40 /* UITextField+ZLJ.m */,
+				79A9323423FA6019008D8E40 /* UIButton+ZLJFactory.h */,
+				79A9323523FA6019008D8E40 /* UITextField+ZLJ.m */,
+				79A9323623FA6019008D8E40 /* UILabel+ZLJFactory.m */,
+				79A9323723FA6019008D8E40 /* UIButton+ZLJFactory.m */,
+				79A9323823FA6019008D8E40 /* UILabel+ZLJFactory.h */,
+				79A9323923FA6019008D8E40 /* UITextField+ZLJ.h */,
 			);
 			path = Factory;
 			sourceTree = "<group>";
@@ -435,17 +435,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				79A9322123F926DA008D8E40 /* UILabel+ZLJFactory.m in Sources */,
 				79A9321423F92665008D8E40 /* NSArray+SwiftExtension.m in Sources */,
 				79A9321723F92665008D8E40 /* ZLJBaseCategory.m in Sources */,
 				6003F59E195388D20070C39A /* ZLJAppDelegate.m in Sources */,
+				79A9323C23FA6019008D8E40 /* UIButton+ZLJFactory.m in Sources */,
+				79A9323A23FA6019008D8E40 /* UITextField+ZLJ.m in Sources */,
 				6003F5A7195388D20070C39A /* ZLJViewController.m in Sources */,
 				79A9321923F92665008D8E40 /* NSMutableArray+ZLJSwiftExtension.m in Sources */,
 				79A9321823F92665008D8E40 /* NSDictionary+HVExtension.m in Sources */,
-				79A9322723F92841008D8E40 /* UITextField+ZLJ.m in Sources */,
 				79A9321523F92665008D8E40 /* UIView+Frame.m in Sources */,
+				79A9323B23FA6019008D8E40 /* UILabel+ZLJFactory.m in Sources */,
 				79A9321A23F92665008D8E40 /* NSString+HVExtension.m in Sources */,
-				79A9322423F92834008D8E40 /* UIButton+ZLJFactory.m in Sources */,
 				79A9321B23F92665008D8E40 /* UIButton+ZLJExpandTouch.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
