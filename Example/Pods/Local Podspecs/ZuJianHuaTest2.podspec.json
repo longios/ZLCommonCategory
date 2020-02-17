@@ -1,0 +1,22 @@
+{
+  "name": "ZuJianHuaTest2",
+  "version": "0.1.0",
+  "summary": "A short description of ZuJianHuaTest2.",
+  "description": "aaa",
+  "homepage": "https://github.com/lq2/ZuJianHuaTest2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lq2": "wzl930623@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lq2/ZuJianHuaTest2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZuJianHuaTest2/Classes/**/*"
+}

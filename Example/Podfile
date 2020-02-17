@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZuJianHuaTest2_Example' do
+  pod 'ZuJianHuaTest2', :path => '../'
+
+  target 'ZuJianHuaTest2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

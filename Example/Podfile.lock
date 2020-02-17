@@ -1,0 +1,16 @@
+PODS:
+  - ZuJianHuaTest2 (0.1.0)
+
+DEPENDENCIES:
+  - ZuJianHuaTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  ZuJianHuaTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZuJianHuaTest2: ee8a926c8aa72fbde773971685281069c0912bc8
+
+PODFILE CHECKSUM: 259a31cec3c8563c244911452fb4b2012f91a742
+
+COCOAPODS: 1.8.4
