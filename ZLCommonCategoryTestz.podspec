@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZLCommonCategoryTestz'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '日常category'
 
   s.description      = '日常开发中用到的category合集 方便demo创建时候不用拉文件'
